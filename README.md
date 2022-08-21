@@ -14,17 +14,11 @@ the following web service https://countriesnow.space/.
 
 ## Requirements
 ![example workflow](https://github.com/ybarhoush/country-service/actions/workflows/main.yml/badge.svg)
-`spring-boot`: 
-- https://start.spring.io/
+For building and running the application you need:
 
-- https://spring.io/guides/gs/spring-boot/
-
-`Use maven`
-
-- https://spring.io/guides/gs/maven/  
-
-- https://www.baeldung.com/maven
-
+- [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Maven](https://maven.apache.org)
+- [Spring Boot](http://projects.spring.io/spring-boot/)
 
 ## Implementation
 First function's signature : getCountries()
