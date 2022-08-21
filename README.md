@@ -14,7 +14,7 @@ Calling this function on browser or Postman should be as follows:
 ```
 https://localhost:8080/countries
 ```
-The response should be as follows:
+The response should be like:
 ```
 response:
           {
@@ -35,7 +35,7 @@ Calling this function on browser or Postman should be as follows:
 ```
 https://localhost:8080/Finland
 ```
-The response should be as follows:
+The response should be like this:
 ```
 response:
           {
