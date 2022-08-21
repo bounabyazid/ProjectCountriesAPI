@@ -64,5 +64,5 @@ response:
                    "flag_file_url": "<url to the flag file>"
           }
 ```  
-## Technologies
-## Launch
+## Testing
+In the testing phase, the focus was on the response status and match the retrived data to a target one.
