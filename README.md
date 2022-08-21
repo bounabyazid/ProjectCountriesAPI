@@ -1,4 +1,5 @@
 # ProjectCountriesAPI
+![example workflow](https://github.com/ybarhoush/country-service/actions/workflows/main.yml/badge.svg)
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -13,12 +14,14 @@ the following web service https://countriesnow.space/.
 - The task is to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country  using spring framework.
 
 ## Requirements
-![example workflow](https://github.com/ybarhoush/country-service/actions/workflows/main.yml/badge.svg)
-For building and running the application you need:
 
+For building and running the application:
+
+- [Eclipse](https://www.eclipse.org/downloads/)
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Maven](https://maven.apache.org)
 - [Spring Boot](http://projects.spring.io/spring-boot/)
+- [Postman](https://www.postman.com/)
 
 ## Implementation
 First function's signature : getCountries()
