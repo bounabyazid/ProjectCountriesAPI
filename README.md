@@ -2,13 +2,29 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
+* [Requirements](#Requirments)
 * [Implementation](#Implementation)
+* [Testing](#Testing)
 
 ## Introduction
 
 - This project is a part of recruitmernt process, which aims to build an API based on extranl one. This API fetches data from 
 the following web service https://countriesnow.space/.
 - The task is to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country  using spring framework.
+
+## Requirements
+1. Use spring-boot
+
+https://start.spring.io/
+
+https://spring.io/guides/gs/spring-boot/
+
+2. Use maven
+
+https://spring.io/guides/gs/maven/  
+
+https://www.baeldung.com/maven
+
 
 ## Implementation
 First function's signature : getCountries()
