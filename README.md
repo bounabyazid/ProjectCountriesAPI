@@ -2,10 +2,9 @@
 
 ## Introduction
 
-This project is a part of recruitmernt process, which aims to build an API based on extranl one. This API fetches data from 
+- This project is a part of recruitmernt process, which aims to build an API based on extranl one. This API fetches data from 
 the following web service https://countriesnow.space/.
-
-The task is to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country  using spring framework.
+- The task is to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country  using spring framework.
 
 First function's signature : getCountries()
 ```
