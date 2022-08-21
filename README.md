@@ -11,7 +11,7 @@ GET /countries/
 ```
 Calling this function on browser or Postman should be as follows:
 ```
-https://localhos:8080/countries
+https://localhost:8080/countries
 ```
 The response should be as follows:
 ```
@@ -32,7 +32,7 @@ GET /countries/{name}
 ```
 Calling this function on browser or Postman should be as follows:
 ```
-https://localhos:8080/Finland
+https://localhost:8080/Finland
 ```
 The response should be as follows:
 ```
