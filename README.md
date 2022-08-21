@@ -3,9 +3,18 @@
 ## Introduction
 This project is a part of recruitmernt process aims to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country.
 ## Reuirements
-make two functions
+Make two functions (countries and ) using spring framework
+
+First function's signature : getCountries()
 ```
 GET /countries/
+```
+Calling this function on browser or Postman should be as follows:
+```
+https://localhos:8080/countries
+```
+The response should be as follows:
+```
 response:
           {
                    [
@@ -16,7 +25,17 @@ response:
                              ...
                    ]
           }
+```
+Second function's signature : getCountryByName(String name)
+```
 GET /countries/{name}
+```
+Calling this function on browser or Postman should be as follows:
+```
+https://localhos:8080/Finland
+```
+The response should be as follows:
+```
 response:
           {
                    "name": "Finland",
