@@ -14,17 +14,16 @@ the following web service https://countriesnow.space/.
 
 ## Requirements
 ![example workflow](https://github.com/ybarhoush/country-service/actions/workflows/main.yml/badge.svg)
-1. Use spring-boot
+`spring-boot`: 
+- https://start.spring.io/
 
-https://start.spring.io/
+- https://spring.io/guides/gs/spring-boot/
 
-https://spring.io/guides/gs/spring-boot/
+`Use maven`
 
-2. Use maven
+- https://spring.io/guides/gs/maven/  
 
-https://spring.io/guides/gs/maven/  
-
-https://www.baeldung.com/maven
+- https://www.baeldung.com/maven
 
 
 ## Implementation
