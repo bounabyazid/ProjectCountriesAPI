@@ -13,6 +13,7 @@ the following web service https://countriesnow.space/.
 - The task is to implement a microservice which provides a list of countries and, in addition, provides more detailed information per country  using spring framework.
 
 ## Requirements
+![example workflow](https://github.com/ybarhoush/country-service/actions/workflows/main.yml/badge.svg)
 1. Use spring-boot
 
 https://start.spring.io/
